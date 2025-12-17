@@ -17,3 +17,9 @@ An automated lighting system that turns a light ON or OFF based on ambient light
 ➡️ `smart-lighting-system/`
 
 More projects will be added progressively.
+
+### Simulation-Based Smart Lighting System
+A virtual embedded systems and IoT project that automates lighting based on ambient light sensor input.
+
+➡️ `simulation-based-smart-lighting-system/`
+
