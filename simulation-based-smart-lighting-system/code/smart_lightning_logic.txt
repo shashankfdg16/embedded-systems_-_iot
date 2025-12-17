@@ -1,0 +1,5 @@
+1. Read light sensor value
+2. Compare with threshold
+3. If light level is low → turn LED ON
+4. Else → turn LED OFF
+5. Repeat continuously
