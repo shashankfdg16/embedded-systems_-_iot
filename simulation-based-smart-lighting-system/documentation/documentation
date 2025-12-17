@@ -1,0 +1,28 @@
+# Simulation-Based Smart Lighting System
+
+## Introduction
+This project demonstrates a basic embedded systems and IoT concept using a simulation platform. The system automatically controls lighting based on ambient light conditions.
+
+## Objective
+The objective of this project is to understand sensor interfacing, simple control logic, and automation using a simulated embedded system environment.
+
+## Components Used
+- Light Dependent Resistor (LDR)
+- LED
+- Resistor
+- Virtual microcontroller
+- Online simulator (Tinkercad / Wokwi)
+
+## Working Principle
+The LDR senses the surrounding light intensity and provides an analog input to the controller. When the light intensity falls below a defined threshold, the LED is turned ON. When the light intensity is above the threshold, the LED remains OFF.
+
+## Implementation
+The system logic is implemented using a simple control program that continuously reads the sensor value and compares it with a predefined threshold to control the LED output.
+
+## Applications
+- Automatic street lighting
+- Smart home lighting
+- Energy-saving lighting systems
+
+## Conclusion
+This project provides a basic understanding of embedded system operation and sensor-based automation using simulation tools.
