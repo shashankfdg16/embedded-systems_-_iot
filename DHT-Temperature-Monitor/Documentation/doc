@@ -1,0 +1,8 @@
+DHT-Temperature-Monitor/
+│
+├── code/
+│   └── dht_temp_monitor.ino
+├── simulation/
+│   └── simulation.png
+├── documentation/
+│   └── README.md
